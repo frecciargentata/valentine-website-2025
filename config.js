@@ -29,7 +29,7 @@ const CONFIG = {
         },
         second: {
             text: "Combien je lui ressemble?",                          // For the love meter
-            startText: "Que la personnalité",                                   // Text before the percentage
+            startText: "Attention a ta reponse",                                   // Text before the percentage
             nextBtn: "Suite 💰"                                         // Text for the next button
         },
         third: {
