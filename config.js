@@ -28,8 +28,8 @@ const CONFIG = {
             secretAnswer: "Tu ressemble trop a Rayan Gosling"           // Secret hover message
         },
         second: {
-            text: "Combien je lui ressemble",                          // For the love meter
-            startText: "Autant que ca",                                   // Text before the percentage
+            text: "Combien je lui ressemble?",                          // For the love meter
+            startText: "Que la personnalité",                                   // Text before the percentage
             nextBtn: "Suite 💰"                                         // Text for the next button
         },
         third: {
@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW AUTANT?",  // Shows when they go past 5000%
-        high: "hehehehe",              // Shows when they go past 1000%
-        normal: "On est la meme personne???"                           // Shows when they go past 100%
+        extreme: "Vous êtes la même personne",  // Shows when they go past 5000%
+        high: "En vrai le charme aussi",              // Shows when they go past 1000%
+        normal: "Que la personnalité"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
